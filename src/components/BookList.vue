@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'BookList',
+  name: 'booklist',
   data() {
     return {
       title: "All Books",
@@ -14,7 +14,7 @@ export default {
 };
 </script>
 <style>
-  h1 {
+  h1,h2 {
     font-weight: normal;
   }
 </style>
